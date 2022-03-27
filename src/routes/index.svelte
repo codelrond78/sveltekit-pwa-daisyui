@@ -3,6 +3,8 @@
 	import Go from '$lib/components/Go.svelte'
 </script>
 
+<button class="btn btn-warning">Hello ;)</button>
+
 <Counter /><br/>
 
 <Go /><br />

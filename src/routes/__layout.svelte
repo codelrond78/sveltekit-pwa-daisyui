@@ -1,4 +1,5 @@
 <script>
+	import "../app.css";
 	import { onMount } from 'svelte'
 	import { browser, dev } from '$app/env'
 
